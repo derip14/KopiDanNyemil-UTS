@@ -46,14 +46,13 @@ Splash ➔ Sign Up (Welcome) ➔ Login / Register ➔ Home ➔ Alamat Pengiriman
 ## 📸 Screenshot
 
 | Splash Screen | Sign Up / Welcome | Login | Register |
-| :---: | :---: | :---: | :---: |
-| ![Splash](link-gambar-8) | ![Welcome](link-gambar-7) | ![Login](link-gambar-5) | ![Register](link-gambar-6) |
+|:-------------:| :---: | :---: | :---: |
+|  ![Splash](screenshots/01_splash.png)  | ![Welcome](screenshots/02_signup.png) | ![Login](screenshots/03_login.png) | ![Register](screenshots/04_register.png) |
 
 | Home | Profile | Alamat Pengiriman | Konfirmasi Pesanan |
 | :---: | :---: | :---: | :---: |
-| ![Home](link-gambar-4) | ![Profile](link-gambar-3) | ![Alamat](link-gambar-2) | ![Konfirmasi](link-gambar-1) |
+| ![Home](screenshots/05_home.png) | ![Profile](screenshots/06_profile.png) | ![Alamat](screenshots/07_alamat.png) | ![Konfirmasi](screenshots/08_konfirmasi.png) |
 
-*(Catatan: Tarik gambar screenshot Anda ke kolom upload di web GitHub saat membuat laporan ini, lalu ganti tulisan "link-gambar-X" dengan link yang dihasilkan GitHub).*
 
 ## 📁 Struktur Project
 Berdasarkan package `com.derip.kopidannyemil`:
@@ -61,10 +60,11 @@ Berdasarkan package `com.derip.kopidannyemil`:
 app/src/main/java/com/derip/kopidannyemil/
 ├── MainActivity.kt        # Titik masuk aplikasi dan routing utama
 └── ...                    # Komponen UI dan data lainnya
+```
+## 👤 Author
 
-👤 Author
 Nama : Derip Abdul Rohman
 
-NIM : 1247050101
+NIM : 1247050101 
 
 Mata Kuliah : Pengembangan Aplikasi Mobile
